@@ -1,0 +1,181 @@
+[
+ {
+  "id": "halloween2026",
+  "index": 0,
+  "nameKey": "eventHalloween",
+  "start": "2026-10-20",
+  "end": "2026-11-03",
+  "pictures": [
+   "Pumpkin",
+   "Ghost",
+   "Owl",
+   "UFO",
+   "Star Lantern"
+  ],
+  "reward": 300
+ },
+ {
+  "id": "winter2026",
+  "index": 2,
+  "nameKey": "eventWinter",
+  "start": "2026-12-15",
+  "end": "2027-01-06",
+  "pictures": [
+   "Snowflake",
+   "Snowman",
+   "Xmas Tree",
+   "Gift",
+   "Bell",
+   "Candle",
+   "Cookie",
+   "Penguin"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "tet2027",
+  "index": 1,
+  "nameKey": "eventTet",
+  "start": "2027-01-20",
+  "end": "2027-02-12",
+  "pictures": [
+   "Lantern",
+   "Banh Chung",
+   "Li Xi",
+   "Hoa Mai",
+   "Non La",
+   "Lotus",
+   "Banh Mi",
+   "Star Lantern"
+  ],
+  "reward": 500
+ },
+ {
+  "id": "valentine2027",
+  "index": 3,
+  "nameKey": "eventValentine",
+  "start": "2027-02-12",
+  "end": "2027-02-20",
+  "pictures": [
+   "Rose",
+   "Cupcake",
+   "Gift",
+   "Strawberry",
+   "Cake",
+   "Cherries",
+   "Bubble Tea",
+   "Lollipop"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "womensday2027",
+  "index": 4,
+  "nameKey": "eventWomensDay",
+  "start": "2027-03-05",
+  "end": "2027-03-13",
+  "pictures": [
+   "Tulip",
+   "Sunflower",
+   "Lotus",
+   "Vase",
+   "Butterfly",
+   "Cherry Blossom",
+   "Palette",
+   "Teapot"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "easter2027",
+  "index": 5,
+  "nameKey": "eventEaster",
+  "start": "2027-03-24",
+  "end": "2027-04-05",
+  "pictures": [
+   "Bunny",
+   "Chick",
+   "Carrot",
+   "Fried Egg",
+   "Ladybug",
+   "Bee",
+   "Sheep",
+   "Snail"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "summer2027",
+  "index": 6,
+  "nameKey": "eventSummer",
+  "start": "2027-06-15",
+  "end": "2027-07-16",
+  "pictures": [
+   "Watermelon",
+   "Ice Cream",
+   "Popsicle",
+   "Sun",
+   "Sailboat",
+   "Crab",
+   "Pineapple",
+   "Kite",
+   "Goldfish",
+   "Umbrella"
+  ],
+  "reward": 500
+ },
+ {
+  "id": "midautumn2027",
+  "index": 7,
+  "nameKey": "eventMidAutumn",
+  "start": "2027-09-08",
+  "end": "2027-09-20",
+  "pictures": [
+   "Star Lantern",
+   "Lantern",
+   "Moon",
+   "Bunny",
+   "Teapot",
+   "Lotus",
+   "Candle",
+   "Owl"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "halloween2027",
+  "index": 8,
+  "nameKey": "eventHalloween",
+  "start": "2027-10-20",
+  "end": "2027-11-03",
+  "pictures": [
+   "Pumpkin",
+   "Ghost",
+   "Bat",
+   "Skull",
+   "Potion",
+   "Spider",
+   "Owl",
+   "Moon"
+  ],
+  "reward": 400
+ },
+ {
+  "id": "winter2027",
+  "index": 9,
+  "nameKey": "eventWinter",
+  "start": "2027-12-15",
+  "end": "2028-01-06",
+  "pictures": [
+   "Snowflake",
+   "Snowman",
+   "Xmas Tree",
+   "Gift",
+   "Bell",
+   "Candle",
+   "Hedgehog",
+   "Penguin"
+  ],
+  "reward": 400
+ }
+]

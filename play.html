@@ -41,6 +41,10 @@
   if (params.get('c')) {
     document.getElementById('manual').hidden = false;
     document.getElementById('code').textContent = 'PB1.' + params.get('c');
+  } else if (params.get('l')) {
+    document.getElementById('what').textContent =
+      'A friend finished level ' + params.get('l') + ' in ' + params.get('m') +
+      ' moves. Can you do it in fewer?';
   } else if (params.get('d')) {
     document.getElementById('what').textContent =
       'A friend finished today\'s picture in ' + params.get('m') + ' moves. Can you beat that?';
