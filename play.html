@@ -45,6 +45,12 @@
     document.getElementById('what').textContent =
       'A friend finished level ' + params.get('l') + ' in ' + params.get('m') +
       ' moves. Can you do it in fewer?';
+  } else if (params.get('g')) {
+    document.getElementById('what').textContent =
+      'A friend sent you a gift: 50 coins in Pixel Bloom!';
+  } else if (params.get('team')) {
+    document.getElementById('what').textContent =
+      'A friend invited you to join their Pixel Bloom team.';
   } else if (params.get('d')) {
     document.getElementById('what').textContent =
       'A friend finished today\'s picture in ' + params.get('m') + ' moves. Can you beat that?';
