@@ -1,0 +1,47 @@
+[
+ {
+  "id": "thanks-1.0.1",
+  "start": "2026-12-01",
+  "end": "2027-01-15",
+  "title": {
+   "en": "Thanks for playing Pixel Bloom!",
+   "vi": "Cảm ơn bạn đã chơi Pixel Bloom!",
+   "es": "¡Gracias por jugar a Pixel Bloom!",
+   "pt": "Obrigado por jogar Pixel Bloom!",
+   "fr": "Merci de jouer à Pixel Bloom !",
+   "de": "Danke, dass du Pixel Bloom spielst!",
+   "it": "Grazie per giocare a Pixel Bloom!",
+   "ru": "Спасибо, что играете в Pixel Bloom!",
+   "ja": "Pixel Bloomを遊んでくれてありがとう！",
+   "ko": "Pixel Bloom을 플레이해 주셔서 감사해요!",
+   "zh": "感谢你玩 Pixel Bloom！",
+   "id": "Terima kasih sudah bermain Pixel Bloom!",
+   "th": "ขอบคุณที่เล่น Pixel Bloom!",
+   "tr": "Pixel Bloom oynadığın için teşekkürler!",
+   "ar": "شكرًا لأنك تلعب Pixel Bloom!",
+   "hi": "Pixel Bloom खेलने के लिए धन्यवाद!",
+   "zh-Hant": "感謝你玩 Pixel Bloom！"
+  },
+  "body": {
+   "en": "New this update: the Endless garden, a weekend challenge and a piggy bank. Here is a small gift to get you started.",
+   "vi": "Bản cập nhật mới có Vườn bất tận, thử thách cuối tuần và heo đất. Tặng bạn một món quà nhỏ để bắt đầu.",
+   "es": "Novedades: el Jardín infinito, un reto de fin de semana y una hucha. Aquí tienes un pequeño regalo.",
+   "pt": "Novidades: o Jardim infinito, um desafio de fim de semana e um cofrinho. Aqui está um presentinho.",
+   "fr": "Nouveau : le Jardin infini, un défi du week-end et une tirelire. Voici un petit cadeau pour commencer.",
+   "de": "Neu: der Endlose Garten, eine Wochenend-Challenge und ein Sparschwein. Hier ein kleines Geschenk zum Start.",
+   "it": "Novità: il Giardino infinito, una sfida del weekend e un salvadanaio. Ecco un piccolo regalo.",
+   "ru": "Новое: Бесконечный сад, испытание выходных и копилка. Вот небольшой подарок для начала.",
+   "ja": "新機能：エンドレスガーデン、週末チャレンジ、ブタの貯金箱。ささやかなプレゼントをどうぞ。",
+   "ko": "새 기능: 끝없는 정원, 주말 챌린지, 돼지 저금통. 작은 선물을 드려요.",
+   "zh": "新内容：无尽花园、周末挑战和存钱罐。送你一份小礼物。",
+   "id": "Baru: Taman tanpa akhir, tantangan akhir pekan, dan celengan. Ini hadiah kecil untukmu.",
+   "th": "ใหม่: สวนไม่รู้จบ ภารกิจสุดสัปดาห์ และกระปุกออมสิน รับของขวัญเล็ก ๆ ไปเลย",
+   "tr": "Yeni: Sonsuz bahçe, hafta sonu meydan okuması ve kumbara. İşte küçük bir hediye.",
+   "ar": "الجديد: الحديقة اللانهائية وتحدي نهاية الأسبوع والحصالة. إليك هدية صغيرة.",
+   "hi": "नया: अनंत बगीचा, वीकेंड चुनौती और गुल्लक। शुरुआत के लिए एक छोटा तोहफ़ा।",
+   "zh-Hant": "新內容：無盡花園、週末挑戰和存錢筒。送你一份小禮物。"
+  },
+  "coins": 200,
+  "hints": 2
+ }
+]
